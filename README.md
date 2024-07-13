@@ -1,4 +1,10 @@
 # CREDIT RISK CLASSIFICATION
+This project make me a champion of The Data Analytics Competition
+
+![image](https://github.com/user-attachments/assets/2c72ac22-cb00-4cc3-a32a-089906db1dc2)
+
+
+# Introduce
 This project involves building a machine learning model to classify credit scores. The notebook includes data preprocessing, model training, and evaluation steps.
 
 # Table of Contents
