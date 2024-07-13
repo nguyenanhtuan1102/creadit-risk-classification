@@ -1,4 +1,4 @@
-# CREDIT SCORE CLASSIFICATION
+# CREDIT RISK CLASSIFICATION
 This project involves building a machine learning model to classify credit scores. The notebook includes data preprocessing, model training, and evaluation steps.
 
 # Table of Contents
